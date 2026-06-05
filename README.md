@@ -1,71 +1,137 @@
 <h1 align="center">Hi 👋, I'm Aryan Patel</h1>
-<h3 align="center">Machine Learning Engineer | Full-Stack Developer</h3>
+
+<h3 align="center">
+🚀 Machine Learning Engineer | Full-Stack Developer | AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patelaryan123-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=patelaryan123-tech&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
-
-## 🚀 About Me
-
-- 🌱 Currently working on **Machine Learning, Deep Learning, and Full-Stack Development**
-- 💻 Experienced in **React.js, Node.js, Express.js, MySQL, MongoDB**
-- 🤖 Passionate about **AI, NLP, LLMs, and Data Science**
-- 📫 Reach me at: **patelaryan4908@gmail.com**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+<p align="center">
+  <a href="mailto:patelaryan4908@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/patelaryan123-tech">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 👨‍💻 About Me
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+```python
+class AryanPatel:
+
+    def __init__(self):
+        self.role = "Machine Learning Engineer"
+        self.languages = ["Python", "JavaScript", "C", "C++"]
+        self.frontend = ["React.js", "HTML", "CSS"]
+        self.backend = ["Node.js", "Express.js"]
+        self.database = ["MySQL", "MongoDB"]
+        self.ml_stack = [
+            "Machine Learning",
+            "Deep Learning",
+            "TensorFlow",
+            "Scikit-Learn",
+            "NLP",
+            "LLMs"
+        ]
+
+    def current_focus(self):
+        return [
+            "AI-Powered Applications",
+            "LLM Integrations",
+            "Full Stack Development"
+        ]
+```
+
+- 🔭 Currently building **AI-Powered Applications**
+- 🌱 Exploring **Advanced Deep Learning & LLM Systems**
+- 💡 Passionate about **Artificial Intelligence and Scalable Web Applications**
+- 📫 Reach me: **patelaryan4908@gmail.com**
+- ⚡ Fun Fact: **I enjoy turning ideas into intelligent software solutions.**
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Machine Learning & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://cdn.simpleicons.org/pandas" width="48"/>
+<img src="https://cdn.simpleicons.org/scikitlearn" width="48"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patelaryan123-tech&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=patelaryan123-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=patelaryan123-tech&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelaryan123-tech&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patelaryan123-tech&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelaryan123-tech&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 💡 Quote
+## 🏆 Featured Skills
 
-> "Building intelligent solutions through Machine Learning and Full-Stack Development."
+✔ Machine Learning  
+✔ Deep Learning  
+✔ Natural Language Processing (NLP)  
+✔ Large Language Models (LLMs)  
+✔ Full Stack Web Development  
+✔ REST APIs  
+✔ Database Design  
+✔ Data Analysis & Visualization
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:patelaryan4908@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/patelaryan123-tech">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<h3 align="center">
+⭐ "Building Intelligent Systems with AI & Full-Stack Technologies"
+</h3>
