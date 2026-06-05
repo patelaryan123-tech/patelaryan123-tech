@@ -87,6 +87,8 @@ class AryanPatel:
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 <img src="https://cdn.simpleicons.org/pandas" width="48"/>
 <img src="https://cdn.simpleicons.org/scikitlearn" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48"/>
 </p>
 
 ---
